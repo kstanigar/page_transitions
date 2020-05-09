@@ -1,0 +1,23 @@
+{
+  "name": "page_transitions",
+  "version": "1.0.0",
+  "description": "First npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstanigar/page_transitions.git"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "thomas keith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kstanigar/page_transitions/issues"
+  },
+  "homepage": "https://github.com/kstanigar/page_transitions#readme"
+}
