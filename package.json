@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/kstanigar/page_transitions/issues"
   },
-  "homepage": "https://github.com/kstanigar/page_transitions#readme"
+  "homepage": "https://github.com/kstanigar/page_transitions#readme",
+  "devDependencies": {
+    "sass": "^1.26.5"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.2.6",
+    "transitions": "^2.0.2"
+  }
 }
